@@ -17,6 +17,7 @@ Modules to add to your theme or plugin
 * [Custom Beaver Builder Icon Module](https://github.com/thierrypigot/bb-custom-icon-module)
 * [Custom Module for Beaver Builder](https://github.com/bacoords/cb-custom-modules)
 * [Timeline for Beaver Builder](https://wordpress.org/plugins/timeline-for-beaver-builder/)
+* [Layout Module for Beaver Builder](https://github.com/thierrypigot/bb-layout)
 
 ## Custom Field Types
 These are additional settings field types to use in your custom modules.
