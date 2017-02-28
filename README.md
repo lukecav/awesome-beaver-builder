@@ -14,6 +14,7 @@ Modules to add to your theme or plugin
 
 * [ZestSMS Map](https://github.com/ZestSMS/BB-Override-Modules)
 * [Beaver Builder Google Maps Module](https://github.com/thierrypigot/beaver-builder-googlemaps)
+* [Custom Beaver Builder Icon Module](https://github.com/thierrypigot/bb-custom-icon-module)
 
 ## Custom Field Types
 These are additional settings field types to use in your custom modules.
