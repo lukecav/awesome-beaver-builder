@@ -13,15 +13,8 @@ Extensions for the awesome [Beaver Builder](https://www.wpbeaverbuilder.com/) pl
 Modules to add to your theme or plugin
 
 * [ZestSMS Map](https://github.com/ZestSMS/BB-Override-Modules)
-* [SW PushMenu Module](http://fotoplugins.com/downloads/responsive-off-canvas-menu/)
-* [SW Social Share Module](http://fotoplugins.com/downloads/sw-social-share/)
-* [SW Responsive Tables Module](http://fotoplugins.com/downloads/sw-responsive-tables/)
-* [SW Custom Footer Module](http://fotoplugins.com/downloads/sw-custom-footer/)
-* [SW Countdown Module](http://fotoplugins.com/downloads/sw-countdown-module/)
-* [SW PDF Viewer Module](http://fotoplugins.com/downloads/sw-pdf-viewer-module/)
-* [SW Hover Card Module](http://fotoplugins.com/downloads/sw-hover-card-module/)
-* [SW Tooltip Module](http://fotoplugins.com/downloads/swtooltip-module/)
-* [SW Gallery Module](http://fotoplugins.com/downloads/sw-gallery-module/)
+* [Beaverlodge Plugin](https://beaverlodgehq.com/downloads/beaverlodge-plugin/)
+
 
 ## Custom Field Types
 These are additional settings field types to use in your custom modules.
@@ -39,6 +32,7 @@ These are additional settings field types to use in your custom modules.
 * [ZestSMS Field Types Bundle](https://github.com/ZestSMS/BB-fields)
 * [BB Templates as Headers](https://github.com/jatacid/bb-template-as-header/)
 * [Beaver Builder TinyMCE Advanced Icon Fix](https://github.com/r3df/r3df-beaver-builder-tinymce-advanced-icon-fix)
+* [Beaver Builder Toolbox](https://github.com/thierrypigot/beaver-builder-toolbox)
 
 Also see the Beaver Builder Team's [Recommended Plugins List](https://www.wpbeaverbuilder.com/knowledge-base/recommended-plugins/) for common helpful plugins that work well with Beaver Builder.
 
