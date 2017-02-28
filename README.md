@@ -16,6 +16,7 @@ Modules to add to your theme or plugin
 * [Beaver Builder Google Maps Module](https://github.com/thierrypigot/beaver-builder-googlemaps)
 * [Custom Beaver Builder Icon Module](https://github.com/thierrypigot/bb-custom-icon-module)
 * [Custom Module for Beaver Builder](https://github.com/bacoords/cb-custom-modules)
+* [Timeline for Beaver Builder](https://wordpress.org/plugins/timeline-for-beaver-builder/)
 
 ## Custom Field Types
 These are additional settings field types to use in your custom modules.
@@ -34,6 +35,8 @@ These are additional settings field types to use in your custom modules.
 * [Beaver Builder TinyMCE Advanced Icon Fix](https://github.com/r3df/r3df-beaver-builder-tinymce-advanced-icon-fix)
 * [Beaver Builder Toolbox](https://github.com/thierrypigot/beaver-builder-toolbox)
 * [Beaver Builder theme header manager](https://github.com/thierrypigot/beaver-builder-theme-header-manager)
+* [Dashboard Welcome for Beaver Builder](https://wordpress.org/plugins/dashboard-welcome-for-beaver-builder/)
+* [Template Widget for Beaver Builder](https://wordpress.org/plugins/template-widget-for-beaver-builder/)
 
 Also see the Beaver Builder Team's [Recommended Plugins List](https://www.wpbeaverbuilder.com/knowledge-base/recommended-plugins/) for common helpful plugins that work well with Beaver Builder.
 
