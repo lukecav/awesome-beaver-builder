@@ -13,6 +13,7 @@ Extensions for the awesome [Beaver Builder](https://www.wpbeaverbuilder.com/) pl
 Modules to add to your theme or plugin
 
 * [ZestSMS Map](https://github.com/ZestSMS/BB-Override-Modules)
+* [Beaver Builder Google Maps Module](https://github.com/thierrypigot/beaver-builder-googlemaps)
 
 ## Custom Field Types
 These are additional settings field types to use in your custom modules.
@@ -30,6 +31,7 @@ These are additional settings field types to use in your custom modules.
 * [BB Templates as Headers](https://github.com/jatacid/bb-template-as-header/)
 * [Beaver Builder TinyMCE Advanced Icon Fix](https://github.com/r3df/r3df-beaver-builder-tinymce-advanced-icon-fix)
 * [Beaver Builder Toolbox](https://github.com/thierrypigot/beaver-builder-toolbox)
+* [Beaver Builder theme header manager](https://github.com/thierrypigot/beaver-builder-theme-header-manager)
 
 Also see the Beaver Builder Team's [Recommended Plugins List](https://www.wpbeaverbuilder.com/knowledge-base/recommended-plugins/) for common helpful plugins that work well with Beaver Builder.
 
