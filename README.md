@@ -40,6 +40,7 @@ These are additional settings field types to use in your custom modules.
 * [Template Widget for Beaver Builder](https://wordpress.org/plugins/template-widget-for-beaver-builder/)
 * [Beaver Builder Templates for Genesis](https://github.com/crowdfavorite/bb-templates-genesis)
 * [Column Separator for Beaver Builder](https://github.com/brainstormforce/column-separator-for-beaver-builder)
+* [Pods Beaver Themer](https://github.com/quasel/pods-beaver-themer)
 * [Genesis Dambuster](https://wordpress.org/plugins/genesis-dambuster/)
 
 Also see the Beaver Builder Team's [Recommended Plugins List](https://www.wpbeaverbuilder.com/knowledge-base/recommended-plugins/) for common helpful plugins that work well with Beaver Builder.
