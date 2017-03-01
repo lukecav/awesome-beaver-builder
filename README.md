@@ -11,7 +11,6 @@ Extensions for the awesome [Beaver Builder](https://www.wpbeaverbuilder.com/) pl
 
 ## Modules
 Modules to add to your theme or plugin
-
 * [ZestSMS Map](https://github.com/ZestSMS/BB-Override-Modules)
 * [Beaver Builder Google Maps Module](https://github.com/thierrypigot/beaver-builder-googlemaps)
 * [Custom Beaver Builder Icon Module](https://github.com/thierrypigot/bb-custom-icon-module)
@@ -43,6 +42,8 @@ These are additional settings field types to use in your custom modules.
 * [Pods Beaver Themer](https://github.com/quasel/pods-beaver-themer)
 * [Genesis Dambuster](https://wordpress.org/plugins/genesis-dambuster/)
 * [BB Delete cache](https://wordpress.org/plugins/bb-delete-cache/)
+* [Beaverlodge Transparent Header](https://wordpress.org/plugins/beaverlodge-transparent-header/)
+* [Beaverlodge Logout](https://wordpress.org/plugins/beaverlodge-logout/)
 
 Also see the Beaver Builder Team's [Recommended Plugins List](https://www.wpbeaverbuilder.com/knowledge-base/recommended-plugins/) for common helpful plugins that work well with Beaver Builder.
 
