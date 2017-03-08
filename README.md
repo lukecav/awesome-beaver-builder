@@ -44,6 +44,7 @@ These are additional settings field types to use in your custom modules.
 * [BB Delete cache](https://wordpress.org/plugins/bb-delete-cache/)
 * [Beaverlodge Transparent Header](https://wordpress.org/plugins/beaverlodge-transparent-header/)
 * [Beaverlodge Logout](https://wordpress.org/plugins/beaverlodge-logout/)
+* [Fullwidth Templates for Any Theme & Page Builder](https://wordpress.org/plugins/fullwidth-templates/)
 
 Also see the Beaver Builder Team's [Recommended Plugins List](https://www.wpbeaverbuilder.com/knowledge-base/recommended-plugins/) for common helpful plugins that work well with Beaver Builder.
 
