@@ -57,6 +57,10 @@ Know of a free or premium theme with great [Beaver Builder](http://www.wpbeaverb
 * [OceanWP](https://oceanwp.org/)
 * [Genesis](http://my.studiopress.com/themes/genesis/)
 
+## Beaver Builder Child Themes
+* [GBeaver](http://gbeaver.com/)
+* [Beaver Builder Child theme with Gulp](https://github.com/stephengreer08/bb-theme-child)
+
 ## Common Snippets
 
 How to check if a page is using a builder layout:
