@@ -56,6 +56,7 @@ Know of a free or premium theme with great [Beaver Builder](http://www.wpbeaverb
 * [GeneratePress](https://generatepress.com/)
 * [OceanWP](https://oceanwp.org/)
 * [Genesis](http://my.studiopress.com/themes/genesis/)
+* [Actions](https://wordpress.org/themes/actions/)
 
 ## Beaver Builder Child Themes
 * [GBeaver](http://gbeaver.com/)
