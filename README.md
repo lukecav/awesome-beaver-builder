@@ -61,6 +61,7 @@ Know of a free or premium theme with great [Beaver Builder](http://www.wpbeaverb
 ## Beaver Builder Child Themes
 * [GBeaver](http://gbeaver.com/)
 * [Beaver Builder Child theme with Gulp](https://github.com/stephengreer08/bb-theme-child)
+* [Beaver Builder Child Theme Generator](https://wpbeaveraddons.com/beaver-child-theme-generator/)
 
 ## Common Snippets
 
