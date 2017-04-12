@@ -52,8 +52,6 @@ These are additional settings field types to use in your custom modules.
 * [Expandable Row for Beaver Builder](https://wordpress.org/plugins/expandable-row-for-beaver-builder/)
 * [WPD BB Additions](https://wordpress.org/plugins/wpd-bb-additions/)
 
-Also see the Beaver Builder Team's [Recommended Plugins List](https://www.wpbeaverbuilder.com/knowledge-base/recommended-plugins/) for common helpful plugins that work well with Beaver Builder.
-
 ## Layouts
 Have you designed a layout you'd like to share? Shoot me a link!
 
