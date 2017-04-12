@@ -47,6 +47,7 @@ These are additional settings field types to use in your custom modules.
 * [Fullwidth Templates for Any Theme & Page Builder](https://wordpress.org/plugins/fullwidth-templates/)
 * [Beaver Builder Header Footer](https://wordpress.org/plugins/bb-header-footer/)
 * [Beaver Builder Custom Dashboard Plugin](https://github.com/bluedognz/beaverbuilder-custom-dashboard)
+* [Dynamic Template Switchboard for Beaver Builder](https://github.com/simbasounds/Dynamic-Template-Switchboard-for-Beaver-Builder-and-Dynamik)
 
 Also see the Beaver Builder Team's [Recommended Plugins List](https://www.wpbeaverbuilder.com/knowledge-base/recommended-plugins/) for common helpful plugins that work well with Beaver Builder.
 
