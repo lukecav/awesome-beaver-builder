@@ -7,9 +7,9 @@ Extensions for the awesome [Beaver Builder](https://www.wpbeaverbuilder.com/) pa
 * [Add-on Plugins and Libraries](#add-on-plugins--libraries)
 * [Layouts](#layouts)
 * [Beaver Builder Friendly Themes](#beaver-builder-friendly-themes)
-* [Beaver Builder Child Themes](#beaver-builder-friendly-themes)
+* [Beaver Builder Child Themes](#beaver-builder-child-themes)
 * [Beaver Builder Reference](#beaver-builder-reference)
-* [Common Snippets](#beaver-builder-reference)
+* [Common Snippets](#common-snippets)
 
 ## Modules
 Modules to add to your theme or plugin
