@@ -6,9 +6,10 @@ Extensions for the awesome [Beaver Builder](https://www.wpbeaverbuilder.com/) pa
 * [Custom Field Types](#custom-field-types)
 * [Add-on Plugins and Libraries](#add-on-plugins--libraries)
 * [Layouts](#layouts)
-* [BB-friendly Themes](#beaver-builder-friendly-themes)
-* [BB-friendly Themes](#beaver-builder-friendly-themes)
+* [Beaver Builder Friendly Themes](#beaver-builder-friendly-themes)
+* [Beaver Builder Child Themes](#beaver-builder-friendly-themes)
 * [Beaver Builder Reference](#beaver-builder-reference)
+* [Common Snippets](#beaver-builder-reference)
 
 ## Modules
 Modules to add to your theme or plugin
