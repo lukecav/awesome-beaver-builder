@@ -4,7 +4,7 @@ Extensions for the awesome [Beaver Builder](https://www.wpbeaverbuilder.com/) pl
 ## Table Of Contents
 * [Modules](#modules)
 * [Custom Field Types](#custom-field-types)
-* [Add-on Plugins](#add-on-plugins)
+* [Add-on Plugins](#add-on-plugins--libraries
 * [Layouts](#layouts)
 * [BB-friendly Themes](#beaver-builder-friendly-themes)
 * [Common Snippets](#common-snippets)
