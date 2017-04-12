@@ -32,7 +32,7 @@ These are additional settings field types to use in your custom modules.
 * [Beaverlodge Plugin](https://beaverlodgehq.com/downloads/beaverlodge-plugin/)
 * [ZestSMS Field Types Bundle](https://github.com/ZestSMS/BB-fields)
 * [BB Templates as Headers](https://github.com/jatacid/bb-template-as-header/)
-* [Beaver Builder TinyMCE Advanced Icon Fix](https://github.com/r3df/r3df-beaver-builder-tinymce-advanced-icon-fix)
+* [Beaver Builder TinyMCE Advanced Icon Fix](https://wordpress.org/plugins/r3df-beaver-builder-tinymce-advanced-icon-fix/)
 * [Beaver Builder Toolbox](https://github.com/thierrypigot/beaver-builder-toolbox)
 * [Beaver Builder theme header manager](https://github.com/thierrypigot/beaver-builder-theme-header-manager)
 * [Dashboard Welcome for Beaver Builder](https://wordpress.org/plugins/dashboard-welcome-for-beaver-builder/)
