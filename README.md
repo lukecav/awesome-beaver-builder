@@ -46,6 +46,7 @@ These are additional settings field types to use in your custom modules.
 * [Beaverlodge Logout](https://wordpress.org/plugins/beaverlodge-logout/)
 * [Fullwidth Templates for Any Theme & Page Builder](https://wordpress.org/plugins/fullwidth-templates/)
 * [Beaver Builder Header Footer](https://wordpress.org/plugins/bb-header-footer/)
+* [Beaver Builder Custom Dashboard Plugin](https://github.com/bluedognz/beaverbuilder-custom-dashboard)
 
 Also see the Beaver Builder Team's [Recommended Plugins List](https://www.wpbeaverbuilder.com/knowledge-base/recommended-plugins/) for common helpful plugins that work well with Beaver Builder.
 
