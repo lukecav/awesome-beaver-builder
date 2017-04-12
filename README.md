@@ -57,7 +57,7 @@ These are additional settings field types to use in your custom modules.
 ## Layouts
 Have you designed a layout you'd like to share? Shoot me a link!
 
-## Beaver Builder-friendly Themes
+## Beaver Builder friendly Themes
 Know of a free or premium theme with great [Beaver Builder](http://www.wpbeaverbuilder.com) support? Send me the link!
 * [GeneratePress](https://generatepress.com/)
 * [OceanWP](https://oceanwp.org/)
