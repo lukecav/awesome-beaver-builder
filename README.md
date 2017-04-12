@@ -49,6 +49,7 @@ These are additional settings field types to use in your custom modules.
 * [Beaver Builder Custom Dashboard Plugin](https://github.com/bluedognz/beaverbuilder-custom-dashboard)
 * [Dynamic Template Switchboard for Beaver Builder](https://github.com/simbasounds/Dynamic-Template-Switchboard-for-Beaver-Builder-and-Dynamik)
 * [Bootstrap Alerts For Beaver Builder](https://wordpress.org/plugins/bb-bootstrap-alerts/)
+* [Expandable Row for Beaver Builder](https://wordpress.org/plugins/expandable-row-for-beaver-builder/)
 
 Also see the Beaver Builder Team's [Recommended Plugins List](https://www.wpbeaverbuilder.com/knowledge-base/recommended-plugins/) for common helpful plugins that work well with Beaver Builder.
 
