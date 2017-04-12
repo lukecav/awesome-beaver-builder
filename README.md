@@ -67,6 +67,11 @@ Know of a free or premium theme with great [Beaver Builder](http://www.wpbeaverb
 * [Beaver Builder Child theme with Gulp](https://github.com/stephengreer08/bb-theme-child)
 * [Beaver Builder Child Theme Generator](https://wpbeaveraddons.com/beaver-child-theme-generator/)
 
+## Beaver Builder Reference
+* [Beaver Builder Plugin Hooks](http://hooks.wpbeaverbuilder.com/bb-plugin/)
+* [Beaver Themer Hooks](http://hooks.wpbeaverbuilder.com/bb-themer/)
+* [Beaver Builder Theme Hooks](http://hooks.wpbeaverbuilder.com/bb-theme/)
+
 ## Common Snippets
 
 How to check if a page is using a builder layout:
@@ -102,7 +107,7 @@ function make_beaver_builder_default_editor( $post_ID, $post, $update ) {
 add_action('wp_insert_post', 'make_beaver_builder_default_editor', 10, 3 );
 ```
 
-There is also a nice collection of [CSS Snippets for the BB Plugin](https://www.wpbeaverbuilder.com/kb/css-snippets-plugin/) and [CSS Snippets for the BB Theme](https://www.wpbeaverbuilder.com/kb/css-snippets-theme/) on the [knowledge base](https://www.wpbeaverbuilder.com/knowledge-base/)
+There is also a nice collection of [CSS Snippets for the BB Plugin](https://www.wpbeaverbuilder.com/kb/css-snippets-plugin/)and [CSS Snippets for the BB Theme](https://www.wpbeaverbuilder.com/kb/css-snippets-theme/) on the [knowledge base](https://www.wpbeaverbuilder.com/knowledge-base/)
 
 Hope this was helpful.
 
