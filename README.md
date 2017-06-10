@@ -41,7 +41,7 @@ These are additional settings field types to use in your custom modules.
 * [Template Widget for Beaver Builder](https://wordpress.org/plugins/template-widget-for-beaver-builder/)
 * [Beaver Builder Templates for Genesis](https://github.com/crowdfavorite/bb-templates-genesis)
 * [Column Separator for Beaver Builder](https://wordpress.org/plugins/column-separator-for-beaver-builder/)
-* [Pods Beaver Themer](https://github.com/quasel/pods-beaver-themer)
+* [Pods Beaver Themer Add-On](https://wordpress.org/plugins/pods-beaver-builder-themer-add-on/)
 * [Genesis Dambuster](https://wordpress.org/plugins/genesis-dambuster/)
 * [BB Delete cache](https://wordpress.org/plugins/bb-delete-cache/)
 * [Beaverlodge Transparent Header](https://wordpress.org/plugins/beaverlodge-transparent-header/)
