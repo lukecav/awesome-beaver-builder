@@ -57,6 +57,7 @@ These are additional settings field types to use in your custom modules.
 * [BWPD Beaver Popups](https://wordpress.org/plugins/wpd-beaver-popups/)
 * [Ninja Beaver Add-ons for Beaver Builder](https://wordpress.org/plugins/ninja-beaver-lite-addons-for-beaver-builder/)
 * [FacetWP integration with Beaver Builder](https://github.com/FacetWP/facetwp-beaver-builder)
+* [Addons for Beaver Builder](https://wordpress.org/plugins/addons-for-beaver-builder/)
 
 ## Layouts
 Have you designed a layout you'd like to share? Shoot me a link!
