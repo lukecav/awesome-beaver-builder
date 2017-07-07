@@ -58,6 +58,7 @@ These are additional settings field types to use in your custom modules.
 * [Ninja Beaver Add-ons for Beaver Builder](https://wordpress.org/plugins/ninja-beaver-lite-addons-for-beaver-builder/)
 * [FacetWP integration with Beaver Builder](https://github.com/FacetWP/facetwp-beaver-builder)
 * [Addons for Beaver Builder](https://wordpress.org/plugins/addons-for-beaver-builder/)
+* [Beaver Builder + Amazon S3](https://github.com/liquidweb/beaverbuilder-s3)
 
 ## Layouts
 Have you designed a layout you'd like to share? Shoot me a link!
