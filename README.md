@@ -59,6 +59,7 @@ These are additional settings field types to use in your custom modules.
 * [FacetWP integration with Beaver Builder](https://github.com/FacetWP/facetwp-beaver-builder)
 * [Addons for Beaver Builder](https://wordpress.org/plugins/addons-for-beaver-builder/)
 * [Beaver Builder + Amazon S3](https://github.com/liquidweb/beaverbuilder-s3)
+* [Timed Content For Beaver Builder](https://wordpress.org/plugins/timed-content-for-beaver-builder/)
 
 ## Layouts
 Have you designed a layout you'd like to share? Shoot me a link!
