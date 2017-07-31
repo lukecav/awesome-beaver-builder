@@ -68,8 +68,11 @@ Have you designed a layout you'd like to share? Shoot me a link!
 Know of a free or premium theme with great [Beaver Builder](http://www.wpbeaverbuilder.com) support? Send me the link!
 * [GeneratePress](https://generatepress.com/)
 * [OceanWP](https://oceanwp.org/)
+* [OceanWP Child Theme](https://github.com/oceanwp/oceanwp-child-theme)
 * [Genesis](http://my.studiopress.com/themes/genesis/)
 * [Actions](https://wordpress.org/themes/actions/)
+* [Astra](https://wordpress.org/themes/astra/)
+* [Astra Child Theme](https://github.com/brainstormforce/astra-child)
 
 ## Beaver Builder Child Themes
 * [GBeaver](http://gbeaver.com/)
