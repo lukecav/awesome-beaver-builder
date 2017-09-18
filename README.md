@@ -61,6 +61,7 @@ These are additional settings field types to use in your custom modules.
 * [Beaver Builder + Amazon S3](https://github.com/liquidweb/beaverbuilder-s3)
 * [Timed Content For Beaver Builder](https://wordpress.org/plugins/timed-content-for-beaver-builder/)
 * [Beaver Lister](https://wordpress.org/plugins/wpbw-beaver-lister/)
+* [Add Beaver Builder Support to Storefront Child Theme](https://gist.github.com/helgatheviking/617187f95c528f5cabf58c1d0f8ebc9f)
 
 ## Layouts
 Have you designed a layout you'd like to share? Shoot me a link!
