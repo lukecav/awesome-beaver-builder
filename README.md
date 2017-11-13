@@ -23,6 +23,7 @@ Modules to add to your theme or plugin
 * [Advanced Posts Module for Beaver Builder](https://github.com/johnbuck/bb-advanced-posts)
 * [Yoast Breadcrumbs Module for Beaver Builder](https://github.com/johnbuck/bb-yoast-breadcrumbs)
 * [Beaver Builder Imagebox Module](https://wordpress.org/plugins/imagebox-module/)
+* [Kntnt's Any Term for Beaver Builder Page Builder](https://wordpress.org/plugins/kntnts-bb-any-term/)
 
 ## Custom Field Types
 These are additional settings field types to use in your custom modules.
