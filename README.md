@@ -69,6 +69,7 @@ These are additional settings field types to use in your custom modules.
 * [Add Beaver Builder Support to Storefront Child Theme](https://gist.github.com/helgatheviking/617187f95c528f5cabf58c1d0f8ebc9f)
 * [Custom Fonts For Beaver Builder](https://wordpress.org/plugins/custom-fonts-for-beaver-builder/)
 * [Bridge Addons – Addons for Beaver Builder](https://wordpress.org/plugins/custom-fonts-for-beaver-builder/)
+* [Toolbox for Beaver Builder](https://wordpress.org/plugins/bb-toolbox/)
 
 ## Layouts
 Have you designed a layout you'd like to share? Shoot me a link!
