@@ -70,6 +70,7 @@ These are additional settings field types to use in your custom modules.
 * [Custom Fonts For Beaver Builder](https://wordpress.org/plugins/custom-fonts-for-beaver-builder/)
 * [Bridge Addons – Addons for Beaver Builder](https://wordpress.org/plugins/custom-fonts-for-beaver-builder/)
 * [Toolbox for Beaver Builder](https://wordpress.org/plugins/bb-toolbox/)
+* [Meta Box – Beaver Themer Integrator](https://wordpress.org/plugins/meta-box-beaver-themer-integrator/)
 
 ## Layouts
 Have you designed a layout you'd like to share? Shoot me a link!
