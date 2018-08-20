@@ -71,6 +71,7 @@ These are additional settings field types to use in your custom modules.
 * [Bridge Addons – Addons for Beaver Builder](https://wordpress.org/plugins/custom-fonts-for-beaver-builder/)
 * [Toolbox for Beaver Builder](https://wordpress.org/plugins/bb-toolbox/)
 * [Meta Box – Beaver Themer Integrator](https://wordpress.org/plugins/meta-box-beaver-themer-integrator/)
+* [Image Carousel Addon for Beaver Builder](https://wordpress.org/plugins/image-carousel-addon-for-beaver-builder/)
 
 ## Layouts
 Have you designed a layout you'd like to share? Shoot me a link!
