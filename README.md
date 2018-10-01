@@ -73,6 +73,7 @@ These are additional settings field types to use in your custom modules.
 * [Meta Box – Beaver Themer Integrator](https://wordpress.org/plugins/meta-box-beaver-themer-integrator/)
 * [Image Carousel Addon for Beaver Builder](https://wordpress.org/plugins/image-carousel-addon-for-beaver-builder/)
 * [Easy ACF Connect For Themer](https://wordpress.org/plugins/easy-acf-connect-for-themer/)
+* [WPZOOM Addons for Beaver Builder](https://wordpress.org/plugins/wpzoom-addons-for-beaver-builder/)
 
 ## Layouts
 Have you designed a layout you'd like to share? Shoot me a link!
