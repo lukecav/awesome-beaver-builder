@@ -26,6 +26,7 @@ Modules to add to your theme or plugin
 * [Kntnt's Any Term for Beaver Builder Page Builder](https://wordpress.org/plugins/kntnts-bb-any-term/)
 * [Beaver Charts – Beaver Builder Chart Module](https://wordpress.org/plugins/fd-beaver-charts/)
 * [Dadevarzan Beaver Builder Modules](https://wordpress.org/plugins/dadevarzan-beaver-builder-modules/)
+* [Vapor Modules for Beaver Builder](https://wordpress.org/plugins/bb-vapor-modules/)
 
 ## Custom Field Types
 These are additional settings field types to use in your custom modules.
