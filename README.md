@@ -79,6 +79,7 @@ These are additional settings field types to use in your custom modules.
 * [WPZOOM Addons for Beaver Builder](https://wordpress.org/plugins/wpzoom-addons-for-beaver-builder/)
 * [Logic Hop Personalization for Beaver Builder Add-on](https://wordpress.org/plugins/logic-hop-beaver-builder/)
 * [Fast Beaver Control](https://wordpress.org/plugins/fast-beavercontrol/)
+* [Modules Kit – Beaver Builder Modules](https://wordpress.org/plugins/modules-kit/)
 
 ## Layouts
 Have you designed a layout you'd like to share? Shoot me a link!
