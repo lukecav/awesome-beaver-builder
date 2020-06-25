@@ -27,6 +27,7 @@ Modules to add to your theme or plugin
 * [Beaver Charts – Beaver Builder Chart Module](https://wordpress.org/plugins/fd-beaver-charts/)
 * [Dadevarzan Beaver Builder Modules](https://wordpress.org/plugins/dadevarzan-beaver-builder-modules/)
 * [Vapor Modules for Beaver Builder](https://wordpress.org/plugins/bb-vapor-modules/)
+* [DeskAddons for Beaver Builder – Lite](https://wordpress.org/plugins/deskaddons-for-beaver-builder-lite/)
 
 ## Custom Field Types
 These are additional settings field types to use in your custom modules.
