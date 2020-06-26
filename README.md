@@ -81,6 +81,7 @@ These are additional settings field types to use in your custom modules.
 * [Logic Hop Personalization for Beaver Builder Add-on](https://wordpress.org/plugins/logic-hop-beaver-builder/)
 * [Fast Beaver Control](https://wordpress.org/plugins/fast-beavercontrol/)
 * [Modules Kit – Beaver Builder Modules](https://wordpress.org/plugins/modules-kit/)
+* [Alerts for Beaver Builder](https://wordpress.org/plugins/bb-bootstrap-alerts/)
 
 ## Layouts
 Have you designed a layout you'd like to share? Shoot me a link!
