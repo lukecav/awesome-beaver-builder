@@ -96,6 +96,8 @@ Know of a free or premium theme with great [Beaver Builder](http://www.wpbeaverb
 * [Actions](https://wordpress.org/themes/actions/)
 * [Astra](https://wordpress.org/themes/astra/)
 * [Astra Child Theme](https://github.com/brainstormforce/astra-child)
+* [Blocksy](https://wordpress.org/themes/blocksy/)
+* [Blocksy Child Theme](https://creativethemes.com/downloads/blocksy-child.zip)
 
 ## Beaver Builder Child Themes
 * [GBeaver](http://gbeaver.com/)
