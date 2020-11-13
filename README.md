@@ -83,6 +83,7 @@ These are additional settings field types to use in your custom modules.
 * [Modules Kit – Beaver Builder Modules](https://wordpress.org/plugins/modules-kit/)
 * [Alerts for Beaver Builder](https://wordpress.org/plugins/bb-bootstrap-alerts/)
 * [Filterable Photo Gallery Addon For Beaver Builder](https://wordpress.org/plugins/filterable-photo-gallery-beaver-builder-elementor/)
+* [Responsive UI for Beaver Builder](https://wordpress.org/plugins/responsive-ui-for-beaver-builder/)
 
 ## Layouts
 Have you designed a layout you'd like to share? Shoot me a link!
